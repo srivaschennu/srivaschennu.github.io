@@ -1,0 +1,38 @@
+<h2>Reconstructing Reality</h2>
+<h3>How the brain makes sense of it all</h3>
+<p><br />Our brains create for us a coherent representation of the everday world by combining inputs from our sense organs. How does the brain solve the so-called "binding problem", managing to correctly put together the right bits of sensory information? Here are some interesting examples to demonstrate that binding is indeed a problem for the brain, but one that it solves very well - well, most of the time anyway.</p>
+<p> </p>
+<ul>
+<ul>
+<li><a href="#spatialbinding">Spatial binding of features in human vision</a></li>
+<li><a href="#temporalbinding">Temporal binding of features in human vision</a></li>
+<li><a href="#mcgurkeffect">Audio-visual integration in humans - The McGurk effect</a></li>
+<li><a href="#changeblindness">The power of attention - Change Blindness</a></li>
+</ul>
+</ul>
+<p> </p>
+<p><br /><br /></p>
+<h2><a name="spatialbinding"></a>Spatial binding of features in human vision</h2>
+<p>Spatial binding refers to the mechanism by which the brain sub-consciously combines visual features like colour, orientation, motion, shape, etc. into coherent, conscious mental representations. To see why <a href="http://en.wikipedia.org/wiki/Binding_problem" target="_blank">binding can be a problem</a> for the brain, try out the following test:</p>
+<p><object width="800" height="600" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="data" value="spatial-binding.mov" /><param name="src" value="spatial-binding.mov" /><embed width="800" height="600" type="application/x-shockwave-flash" src="spatial-binding.mov" data="spatial-binding.mov" /></object></p>
+<p> </p>
+<hr />
+<p><br /><br /></p>
+<h2><a name="temporalbinding"></a>Temporal binding of features in human vision</h2>
+<p>The real world is a dynamic and ever-changing visual environment where stimuli compete for our attention not only in space, but also in time. Correctly combining visual features that are continuously changing over time represents another dimension of the <a href="http://en.wikipedia.org/wiki/Binding_problem" target="_blank">binding problem</a> that the brain must solve, as the example below shows.</p>
+<p><object width="800" height="600" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="data" value="temporal-binding.mov" /><param name="src" value="temporal-binding.mov" /><embed width="800" height="600" type="application/x-shockwave-flash" src="temporal-binding.mov" data="temporal-binding.mov" /></object></p>
+<p> </p>
+<hr />
+<p><br /><br /></p>
+<h2><a name="mcgurkeffect"></a>Audio-visual integration in humans - The McGurk effect</h2>
+<p>The <a href="http://en.wikipedia.org/wiki/Mcgurk_effect" target="_blank">McGurk Effect</a> is a remarkably robust example of how visual and auditory information are combined together in speech perception. The effect demonstrates how a change in the interplay between these senses can alter our conscious experience. Try it out on yourself with the example below.</p>
+<p><object width="800" height="600" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="data" value="mcgurk-effect.mov" /><param name="src" value="mcgurk-effect.mov" /><embed width="800" height="600" type="application/x-shockwave-flash" src="mcgurk-effect.mov" data="mcgurk-effect.mov" /></object></p>
+<p> </p>
+<hr />
+<p><br /><br /></p>
+<h2><a name="changeblindness"></a>The power of attention - Change Blindness</h2>
+<p>It is our ability to selectively pay attention to specific stimuli that allows us to 'glue' features together into distinct mental representations.As the phenomenon of <a href="http://en.wikipedia.org/wiki/Change_blindness" target="_blank">change blindness</a> shown below demonstrates, selective attention means that we actually consciously 'see' only a small part of our visual worlds, and are 'blind' to the rest.</p>
+<h4>What is changing between successive flashes in the following scenes?</h4>
+<p><img src="change-blindness1.gif" width="800" /><br /><br /><br /><img src="change-blindness2.gif" width="800" /></p>
+<p> </p>
+<hr />

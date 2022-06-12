@@ -1,0 +1,63 @@
+<?php require 'template.loader.php'; ?>
+<!DOCTYPE html>
+<html><!-- InstanceBegin codeOutsideHTMLIsLocked="false" -->
+	<!-- TEMPLATE_VERSION="CS Chronos v1.2" -->
+	<head>
+		<title>Publications eligible for the RAE by Srivas Chennu</title>
+
+		<kentIncludeMeta>
+		</kentIncludeMeta>
+
+		<kentIncludeFavicon />
+		<kentIncludeCSS />
+
+		<link rel="stylesheet" media="all" type="text/css" href="/styles/v2/WebStandard.css" />
+
+		<kentIncludeJavascript />
+<meta name="description" content="Publications eligible for the RAE by Srivas Chennu" />
+<meta name="keywords" content="recent, publications, Srivas Chennu" />
+	</head>
+
+	<body>
+		<kentPage>
+			<kentPageHeader>
+				<kentGlobalHeader />
+				<kentDepartmentHeader />
+			</kentPageHeader>
+
+			<kentPageBody>
+				<kentPageBodyLeft>
+					<kentMenuGenerator name='main' maxDepth='10'>
+						<param:menuGenerator name='buildAllMenus' value='true' />
+						<param:menuGenerator name='forceMenuHighlight' value='' />
+					</kentMenuGenerator>
+					<kentSnippetSearchBox></kentSnippetSearchBox>
+				</kentPageBodyLeft>
+
+				<kentPageBodyRight>
+					<kentUtilityBar />
+					<kentPageContent>
+
+<h1>
+Publications eligible for the RAE by Dr Srivas Chennu
+</h1>
+<p><b>Publication period  &nbsp; (1/2001 - 12/2007)</b></p>
+
+<hr />
+
+
+
+
+
+
+					</kentPageContent>
+				</kentPageBodyRight>
+			</kentPageBody>
+
+			<kentPageFooter>
+				<kentDepartmentFooter />
+				<kentGlobalFooter />
+			</kentPageFooter>
+		</kentPage>
+	</body>
+<!-- InstanceEnd --></html>

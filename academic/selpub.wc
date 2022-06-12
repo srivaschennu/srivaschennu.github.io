@@ -1,0 +1,124 @@
+<!-- Navigation links start -->
+
+<style>
+h3.nav {
+    background-color: powderblue;
+    padding: 10px;
+}
+h2.title {
+    background-color: whitesmoke;
+    padding: 5px;
+}
+h3.title {
+    background-color: whitesmoke;
+    padding: 2px;
+}
+</style>
+
+<br>
+<center><h3 class="nav"><a href="index.html">News</b></a> | <a href="research.html">Research</b></a> | <a href="selpub.html">Papers</b></a> | <a href="funding.html">Funding</b></a> | <a href="people.html">People</b></a> | <a href="media.html">Media & Public</a> |  <a href="collab.html">Collaborations</a> | <a href="misc.html">Misc</a></h3></center>
+<br>
+
+<!-- Navigation links end -->
+
+<center><h2 class="title">Selected Publications</h2></center>
+<p><h3>A full list is available on <a class="external-link" target="_blank" href="https://scholar.google.co.uk/citations?user=8BIf5MEAAAAJ&amp;hl=en" target="_self" title="My Google Scholar page">Google Scholar</a> and the <a target="_blank" href="pubs.html" target="_self" title="Kent Academic Repository">Kent Academic Repository</a>.</h3></p> 
+<br>
+
+<p><strong>2018</strong></p>
+
+<ul>
+<li>
+<p>Patlatzoglou, K., <strong>Chennu</strong>, S., Boly, M., Noirhomme, Q., Bonhomme, V., Brichant, J.-F., Gosseries, O. and Laureys, S. 2018. Deep Neural Networks for Automatic Classification of Anesthetic-Induced Unconsciousness. The 11th International Conference on Brain Informatics. Arlington, Texas. <a href="https://kar.kent.ac.uk/69530/1/Patlatzoglou_BI_2018.pdf">PDF</a></p>
+</li>
+<li>
+<p>Thibaut, A., Chennu, S., Chatelle, C., Martens, G., Annen, J., Cassol, H. & Laureys, S. 2018. <a href="https://www.brainstimjrnl.com/article/S1935-861X(18)30304-8/fulltext">Theta network centrality correlates with tDCS response in disorders of consciousness</a>. Brain Stimulation, In press. <a href="https://kar.kent.ac.uk/69096/1/1-s2.0-S1935861X18303048-main.pdf">PDF</a></p>
+</li>
+<li>
+<p>Bareham, C. A., Allanson, J., Roberts, N., Hutchinson, P. J. A., Pickard, J. D., Menon, D. K. &amp; <strong>Chennu</strong>, S. 2018. <a href="https://www.frontiersin.org/articles/10.3389/fneur.2018.00676/full">Longitudinal Bedside Assessments of Brain Networks in Disorders of Consciousness: Case Reports From the Field</a>. Frontiers in Neurology, 9. <a href="https://www.frontiersin.org/articles/10.3389/fneur.2018.00676/pdf">PDF</a></p>
+</li>
+</ul>
+
+<p><strong>2017</strong></p>
+<ul>
+  <li>
+    <p><strong>Chennu</strong>, S., Annen, J., Wannez, S., Thibaut, A., Chatelle, C., Cassol, H., Martens, G., Schnakers, C., Gosseries, O., Menon, D. & Laureys, S. 2017. <a href="https://academic.oup.com/brain/article/doi/10.1093/brain/awx163/3896394/Brain-networks-predict-metabolism-diagnosis-and?guestAccessKey=37194adc-cf03-49fd-a505-5df2afce0b79">Brain networks predict metabolism, diagnosis and prognosis at the bedside in disorders of consciousness.</a> <b><i>Brain</i></b>, awx163. <a class="external-link" href="https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/brain/PAP/10.1093_brain_awx163/1/awx163.pdf?Expires=1498777882&Signature=e63ruHj9-5dFZczqyfWa8X3PQSWmeKe81ZKW7~tuQktxCikR8Nz0QOltu7BzMrIEhhSgzUOHSz1PJvV5W7pa6xzJxqajf7zMIcdJYmZr4G~DNO~LFwzOrXt8GkGxukakGz4opNXLYtezmqvIDHk3Ynu6xX8K3RWix7YJ9Bho2uR7pUS0cYHACk0tgUSz8K-imKnh6dSo3smZ9VtNWuXZkYV9SGPMXP2x4GPCRuLl5B9aIFvM~aPH-KrHwaq34enNZZp4Zn45dyuHG9QkqeI5e-QvQNToMlwZ9g-8cE79z4HDTWD3k4BHWEu1gQSUdDwVKCVfF4u5V67QoLv7u1RvRg__&Key-Pair-Id=APKAIUCZBIA4LVPAVW3Q" target="_self" title="">PDF</a></p>
+  </li>
+  <li>
+  Comsa, I. M., Bekinschtein, T. A. and <strong>Chennu</strong>, S. 2017. <a href="http://biorxiv.org/content/early/2017/12/20/231464.abstract">Transient topographical dynamics of the electroencephalogram predict brain connectivity and behavioural responsiveness during drowsiness.</a> <b><i>bioRxiv</i></b>. <a href="https://www.biorxiv.org/content/biorxiv/early/2017/12/20/231464.full.pdf">PDF</a></li>
+  <li>
+    Kuttikat, A., Noreika, V., <strong>Chennu</strong>, S., Shenker, N., Bekinschtein, T. & Brown, C. A. 2017. <a href="http://www.jpain.org/article/S1526-5900(17)30785-X/abstract">Altered Neurocognitive Processing of Tactile Stimuli in Patients with Complex Regional Pain Syndrome (CRPS).</a> <b><i>The Journal of Pain</i></b>, In Press.
+  <a href="https://kar.kent.ac.uk/65570/1/Kuttikat%20JoP%202018%20-%20Altered%20neurocognitive%20processing%20of%20tactile%20stimuli%20in%20patients%20with%20Complex%20Regional%20Pain%20Syndrome%20(CRPS).pdf">PDF</a></li>
+  <li>
+    <p>Canales-Johnson, A., Billig, A., Olivares, F., Gonzalez, A., Garcia, M. D. C., Silva, W., Ciraolo, C., Vaucheret, E., Mikulan, E., Ibanez, A., Noreika, V., <b>Chennu</b>, S. & Bekinschtein, T. 2017. <a href="https://www.biorxiv.org/content/early/2017/05/03/133801">Integration And Differentiation Of Neural Information Dissociate Between Conscious Percepts</a>. <b><i>bioRxiv</i></b>. <a href="https://www.biorxiv.org/content/biorxiv/early/2017/05/03/133801.full.pdf">PDF</a></p>
+  </li>
+  <li>
+    <p>Noreika, V., Kamke, M. R., Canales-Johnson, A., <b>Chennu</b>, S., Mattingley, J. B. & Bekinschtein, T. A. 2017. <a href="https://www.biorxiv.org/content/early/2017/06/26/155754">Neurobehavioral dynamics of drowsiness</a>. <b><i>bioRxiv</i></b>. <a href="https://www.biorxiv.org/content/biorxiv/early/2017/06/26/155754.full.pdf">PDF</a></p>
+  </li>
+</ul>
+<p><strong>2016</strong></p>
+
+<ul>
+<li>
+<p><strong>Chennu</strong>, S., Noreika, V., Gueorguiev, D., Shtyrov, Y., Bekinschtein, T. & Henson, R. 2016. <a href="http://www.jneurosci.org/content/36/32/8305.short">Silent Expectations: Dynamic Causal Modelling of Cortical Prediction and Attention to Sounds that Weren't.</a> <b><i>The Journal of Neuroscience</i></b>, 36(32), 8305-831. <a class="external-link" href="http://www.jneurosci.org/content/36/32/8305.full.pdf" target="_self" title="">PDF</a></p>
+</li>
+<li>
+<p>Panda, R., Bharath, R. D., Upadhyay, N., Mangalore, S., <strong>Chennu</strong>, S. & Rao, S. L. 2016. <a href="http://journal.frontiersin.org/article/10.3389/fnhum.2016.00372/full">Temporal dynamics of the default mode network characterise meditation-induced alterations in consciousness</a>. <b><i>Frontiers in Human Neuroscience</i></b>, 10, 1-12. <a class="external-link" href="https://www.dropbox.com/s/jy7agn432m8nnx3/Panda-2016.pdf?dl=0" target="_self" title="">PDF</a></p>
+</li>
+<li>
+<p><strong>Chennu</strong>, S., Stamatakis, E. A. & Menon, D. K. 2016. <a href="http://www.thelancet.com/journals/laneur/article/PIIS1474-4422(16)30027-8/abstract">The see-saw brain: recovering consciousness after brain injury</a>. <b><i>The Lancet Neurology</b></i>, 15, 781-782.</p>
+</li>
+<li>
+<p><strong>Chennu</strong>, S., O'Connor, S., Adapa, R., Menon, D. K. &amp; Bekinschtein, T. A. 2015. <a class="external-link" href="http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004669" target="_self" title="">Brain connectivity dissociates responsiveness from drug exposure during propofol-induced transitions of consciousness.</a> <em><strong>PLOS Computational Biology</strong></em>, 12(1), e1004669. <a class="external-link" href="http://www.ploscompbiol.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pcbi.1003887&amp;representation=PDF" target="_self" title="">PDF</a>.</p>
+<p><i>The research in this article showed that resting EEG brain connectivity can predict and track the transition to unconsciousness during propofol sedation, and also dissociate the loss of behavioural responsiveness from the concentration of the drug in blood. The dataset accompanying this publication is free to download at the <a href="https://www.repository.cam.ac.uk/handle/1810/252736" title="Link to dataset available at University of Cambridge repository" target="_blank">University of Cambridge repository</a>.</i><br /><br /><img height="261" src="files/Chennu-PLOSCB-2016.jpg" width="742" /> <br /><i>Brain networks during the transition to unconsciousness during propofol sedation (drug infusion timeline shown in red). Participants with robust networks at baseline (left panel) remained resistant to the sedative, while others showed characteristically different, weaker networks during unconsciousness (middle). All participants regained similar networks when the sedative wore off (right).</i></p>
+</li>
+</ul>
+<p><strong>2015</strong></p>
+<ul>
+<li>
+<p>Gonzalez-Gadea*, M. L., <strong>Chennu</strong>*, S., Bekinschtein, T. A., Rattazzi, A., Beraudi, A., Tripicchio, P., Moyano, B., Soffita, Y., Steinberg, L., Adolfi, F., Sigman, M., Marino, J., Manes, F. &amp; Ibanez, A. 2015. <a class="external-link" href="http://jn.physiology.org/content/114/5/2625" target="_self" title="">Predictive coding in autism spectrum disorder and attention deficit hyperactivity disorder</a>. <em><strong>Journal of Neurophysiology</strong></em>, 114, 2625-36. <a class="external-link" href="https://www.dropbox.com/s/houuap9x7w646di/Gonzalez-Gadea-2015.pdf?dl=0" target="_self" title="">PDF</a></p>
+</li>
+</ul>
+<p><strong><strong>2014</strong></strong></p>
+<ul>
+<li>
+<p><strong>Chennu</strong>, S., Finoia, P., Kamau, E., Allanson, J., Williams, G. B., Monti, M. M., Noreika, V., Arnatkeviciute, A., Canales-Johnson, A. S., Olivares, F., Cabezas-Soto, D., Menon, D. K., Pickard, J. D., Owen, A. M. &amp; Bekinschtein, T. A. 2014. <a class="external-link" href="http://www.ploscompbiol.org/article/info:doi/10.1371/journal.pcbi.1003887" target="_self" title="">Spectral signatures of reorganised brain networks in disorders of consciousness</a>. <em><strong>PLOS Computational Biology</strong></em>, 10(10), e1003887. <a class="external-link" href="http://www.ploscompbiol.org/article/fetchObject.action?uri=info%3Adoi%2F10.1371%2Fjournal.pcbi.1003887&amp;representation=PDF" target="_self" title="">PDF</a></p>
+<p><i>This article shows that the rich and diversely connected networks that support awareness in the healthy brain are typically – but importantly, not always – impaired in patients in a vegetative state. Some patients had well-preserved brain networks that looked similar to those of healthy adults – these patients were those who had shown signs of hidden awareness by following commands like imagining playing tennis in an MRI scanner.</i><br /><br /><img class="image-inline" height="259" src="files/Chennu-PLOS-CB-2014.jpg" width="744" /> <br /><i>Brain networks in two behaviourally similar vegetative patients (left and middle), but one of whom imagined playing tennis (middle panel), alongside a healthy adult (right panel).</i></p>
+</li>
+</ul>
+<p><strong>2013</strong></p>
+<ul>
+<li>
+<p><a class="external-link" href="http://www.altmetric.com/details.php?citation_id=1870566" target="_self" title="Go to altmetric.com"><span class="external-link"><span class="external-link"><span class="external-link"><strong><img height="40" src="https://altmetric-badges.a.ssl.fastly.net/?size=180&amp;score=106&amp;types=mbttttfg" width="40" /></strong></span></span></span></a><strong>Chennu,</strong> S., Finoia, P., Kamau, E., Monti, M. M., Allanson, J., Pickard, J. D., Owen, A. M. &amp; Bekinschtein, T. 2013. <a class="external-link" href="http://www.sciencedirect.com/science/article/pii/S2213158213001381" target="_self" title="">Dissociable Endogenous and Exogenous Attention in Disorders of Consciousness</a>. <em><strong>NeuroImage: Clinical</strong></em>, 3, 450-461.<strong> <a class="external-link" href="https://www.dropbox.com/s/m9kd9rxgr5kam82/Chennu-2013.pdf" target="_self" title="">PDF</a></strong></p>
+<p><i>In the research leading up to this article, we used EEG to show that a vegetative patient was able to flexibly direct selective attention to words.<br /></i></p>
+</li>
+<li>
+<p><strong>Chennu</strong>, S., Alsufyani, A., Filetti, M., Owen, A. &amp; Bowman, H. 2013. <a class="external-link" href="http://www.jneuroengrehab.com/content/10/1/82" target="_self" title="">The cost of space independence in P300-BCI spellers</a>. <strong><em>Journal of NeuroEngineering and Rehabilitation</em></strong>, 10(1), 82.<strong> <a class="external-link" href="https://www.dropbox.com/s/lymm7crd9ahbwka/Chennu2013b.pdf" target="_self" title="">PDF</a></strong></p>
+</li>
+<li>
+<p><strong>Chennu</strong>, S., Noreika, V., Gueorguiev, D., Blenkmann, A., Kochen, S., Ibáñez, A., Owen, A. M. &amp; Bekinschtein, T. A. 2013. <a class="external-link" href="http://www.jneurosci.org/content/33/27/11194.abstract" target="_self" title="">Expectation and attention in hierarchical auditory prediction</a>. <em><strong>The Journal of Neuroscience</strong></em>, 33(27), 11194-11205.<strong> <a class="external-link" href="https://www.dropbox.com/s/q1omj5d2lkjomv3/Chennu2013a.pdf" target="_self" title="">PDF</a></strong></p>
+</li>
+</ul>
+<p><strong>2012</strong></p>
+<ul>
+<li>
+<p>Cruse, D., <strong>Chennu</strong>, S., Fernández-Espejo, D., Payne, W., L., Young, G., Bryan &amp; Owen, A., M. 2012. <a class="external-link" href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0049933">Detecting awareness in the vegetative state: Electroencephalographic evidence for attempted movements to command</a>. <em><strong>PLoS ONE</strong></em>, 7(11), e49933.<strong> <a class="external-link" href="https://www.dropbox.com/s/o99aem8lo897fgm/Cruse2012b.pdf" target="_self" title="">PDF</a></strong></p>
+</li>
+<li>
+<p>Chatelle*, C., <strong>Chennu</strong>*, S., Noirhomme, Q., Cruse, D., Owen, A. M. &amp; Laureys, S. 2012. <a class="external-link" href="http://informahealthcare.com/doi/abs/10.3109/02699052.2012.698362">Brain–computer interfacing in disorders of consciousness</a>. <em><strong>Brain Injury</strong></em>, 1-13.<strong> <a class="external-link" href="https://www.dropbox.com/s/fckqycmki09mh5g/Chatelle2012a.pdf" target="_self" title="">PDF</a></strong></p>
+</li>
+<li>
+<p><strong>Chennu</strong>, S. &amp; Bekinschtein, T. A. 2012. <a class="external-link" href="http://www.frontiersin.org/consciousness_research/10.3389/fpsyg.2012.00065/abstract">Arousal modulates auditory attention and awareness: insights from sleep, sedation and disorders of consciousness</a>. <em><strong>Frontiers in Psychology</strong></em>, 3(00065).<strong> <a class="external-link" href="https://www.dropbox.com/s/wt8pcjk54xl38iy/Chennu2012a.pdf" target="_self" title="">PDF</a></strong></p>
+</li>
+<li>
+<p>Cruse*, D., <strong>Chennu</strong>*, S., Chatelle, C., Fernández-Espejo, D., Bekinschtein, T. A., Pickard, J. D., Laureys, S. &amp; Owen, A. M. 2012. <a class="external-link" href="http://www.neurology.org/content/78/11/816.abstract">The relationship between aetiology and covert cognition in the minimally-conscious state</a>. <em><strong>Neurology</strong></em>, 78(11), 816-822.<strong> <a class="external-link" href="https://www.dropbox.com/s/33w9xs2fptnqj6g/Cruse2012a.pdf" target="_self" title="">PDF</a></strong></p>
+</li>
+</ul>
+<p><strong>2011</strong></p>
+<ul>
+<li>
+<p><a class="external-link" href="http://www.altmetric.com/details.php?domain=ref.cam.ac.uk&amp;citation_id=448717" target="_self" title="Go to altmetric.com"><img height="40" src="https://altmetric-badges.a.ssl.fastly.net/?size=180&amp;score=208&amp;types=1mbtttfg" width="40" /></a> Cruse, D., <strong>Chennu</strong>, S., Chatelle, C., Bekinschtein, T. A., Fernández-Espejo, D., Pickard, J. D., Laureys, S. &amp; Owen, A. M. 2011. <a class="external-link" href="http://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2811%2961224-5/" target="_self" title="">Bedside detection of awareness in the vegetative state: a cohort study</a>. <em><strong>The Lancet</strong></em>, 378(9809), 2088-2094.<strong> <a class="external-link" href="https://www.dropbox.com/s/onu9zskbo5yyyll/Cruse2011a.pdf" target="_self" title="">PDF</a></strong></p>
+<p><i>The research described in this article used EEG to show that some patients in the vegetative state might possess some form of covert awareness.</i></p>
+</li>
+</ul>
+<p>* Joint first author</p>

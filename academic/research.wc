@@ -1,0 +1,55 @@
+<!-- Navigation links start -->
+
+<style>
+h3.nav {
+    background-color: powderblue;
+    padding: 10px;
+}
+h2.title {
+    background-color: whitesmoke;
+    padding: 5px;
+}
+h3.title {
+    background-color: whitesmoke;
+    padding: 2px;
+}
+</style>
+
+<br>
+<center><h3 class="nav"><a href="index.html">News</b></a> | <a href="research.html">Research</b></a> | <a href="selpub.html">Papers</b></a> | <a href="funding.html">Funding</b></a> | <a href="people.html">People</b></a> | <a href="media.html">Media & Public</a> |  <a href="collab.html">Collaborations</a> | <a href="misc.html">Misc</a></h3></center>
+<br>
+
+<!-- Navigation links end -->
+
+<center><h2 class="title">Research</h2></center>
+
+<p>
+<font color = "red"><i><strong><center>I am keen to hear from motivated and well-qualified students interested in pursuing funded PhDs on the themes below!</center></i></strong></font>
+</p>
+
+<hr><br/>
+<p><b>Machine Learning meets Translational Neuroscience</b> I apply a combination of advanced signal processing, network analysis and machine learning to build tools for improving diagnostics and prognostics during emergence from coma, and in prolonged disorders of consciousness (including the so-called vegetative and minimally conscious states). These tools could eventually be deployed right at the patients' bedside to visualise, diagnose and prognosticate recovery after injury. My visualisations of EEG-derived networks of brain activity have been featured by Scientific American’s <a href="http://www.scientificamerican.com/gallery/searching-for-signs-of-consciousness/" target="_blank">Science Images</a> and the MRC’s <a href="http://www.bpod.mrc.ac.uk/archive/2014/10/22" target="_blank">Biomedical Picture of the Day</a>. They have also featured in <a href="http://www.bbc.co.uk/news/health-29658723" target="_blank">BBC News</a>, <a href="https://www.newscientist.com/article/mg22429922-600-locked-in-peoples-awareness-revealed-by-rainbow-hair/" target="_blank">New Scientist</a>, Science Magazine, <a href="http://www.wired.com/2014/10/neural-signature-consciousness/" target="_blank">Wired Magazine</a>, <a href="https://www.washingtonpost.com/national/health-science/patient-in-vegetative-state-was-not-just-aware-but-also-able-to-pay-attention-study-shows/2013/11/04/92a66d5a-4250-11e3-a751-f032898f2dbc_story.html" target="_blank">The Washington Post</a> and <a href="http://www.spiegel.de/gesundheit/diagnose/wachkoma-wie-forscher-gedanken-sichtbar-machen-wollen-a-928392.html" target="_blank">Der Spiegel</a>, and have sparked a lively debate on <a href="https://www.reddit.com/r/science/comments/2jiw0s/scientists_have_found_hidden_brain_activity_that/" target="_blank">Reddit</a>.
+
+<center><img class="image-inline" height="259" src="files/Chennu-PLOS-CB-2014.jpg" width="744" /></center>
+<br/><hr><br/>
+
+</p>
+
+<center><img class="image-inline" height="261" src="files/Chennu-PLOSCB-2016.jpg" width="742" /></center>
+
+<br/><hr><br/>
+<p><b>Predictive coding in cognition</b> The idea that the brain is a hierarchical neural network designed for prediction is persuasive one. In this view, the cortex implements Bayesian inference to maintain a successively complex hierarchy of generative models of sensory causation. I combine EEG and neural network modelling to describe how this predictive mechanism might be implemented in the brain.</p>
+
+
+<center><img class="image-inline" height="261" src="files/Chennu-JNeuro-2016.jpg"/></center>
+
+
+<br/><hr><br/>
+<p><b>Neurodynamics of consciousness</b> Understanding how neural dynamics generate human consciousness is a grand challenge for neuroscience. I develop computational tools that use data from <a href="http://en.wikipedia.org/wiki/Electroencephalography" target="_blank">high-density electroencephalography</a> (EEG) to study the network correlates of cognition and consciousness during normal wakefulness, and in altered states like sleep, sedation and meditation.</p>
+
+<center><img class="image-inline" height="261" src="files/Chennu-PLOSCB-2016.jpg" width="742" /></center>
+
+<br/>
+<hr>
+
+

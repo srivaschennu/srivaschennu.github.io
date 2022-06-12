@@ -1,0 +1,88 @@
+<?php require 'template.loader.php'; ?>
+<!DOCTYPE html>
+<html><!-- InstanceBegin codeOutsideHTMLIsLocked="false" -->
+	<!-- TEMPLATE_VERSION="CS Chronos v1.2" -->
+	<head>
+		<title>Srivas Chennu: publications</title>
+
+		<kentIncludeMeta>
+		</kentIncludeMeta>
+
+		<kentIncludeFavicon />
+		<kentIncludeCSS />
+
+		<link rel="stylesheet" media="all" type="text/css" href="/styles/v2/WebStandard.css" />
+
+		<kentIncludeJavascript />
+
+<meta name="description" content="Publications by Srivas Chennu ordered by category and date" />
+<meta name="keywords" content="publications, Srivas Chennu" />
+
+	</head>
+
+	<body>
+		<kentPage>
+			<kentPageHeader>
+				<kentGlobalHeader />
+				<kentDepartmentHeader />
+			</kentPageHeader>
+
+			<kentPageBody>
+				<kentPageBodyLeft>
+					<kentMenuGenerator name='main' maxDepth='10'>
+						<param:menuGenerator name='buildAllMenus' value='true' />
+						<param:menuGenerator name='forceMenuHighlight' value='' />
+					</kentMenuGenerator>
+					<kentSnippetSearchBox></kentSnippetSearchBox>
+				</kentPageBodyLeft>
+
+				<kentPageBodyRight>
+					<kentUtilityBar />
+					<kentPageContent>
+
+<h1>
+  Publications by Dr Srivas Chennu 
+</h1>
+
+
+<div class="snippetBox"><kentSnippetKARList snippetPack='Default' snippetVersion='1.0'>
+	<table class="em" style="width: 90%">
+		<tr>
+			<th>Author's email address</th>
+			<td>S.Chennu-785@kent.ac.uk</td>
+		</tr>
+		<tr>
+			<th>Number of items to show</th>
+			<td>-1</td>
+		</tr>
+		<tr>
+			<th>Start year</th>
+			<td>1900</td>
+		</tr>
+		<tr>
+			<th>End year</th>
+			<td>3000</td>
+		</tr>
+		<tr>
+			<th>Format order <span>(book, article, book_section, conference_item, research_report, edbook, review, internet, performance, exhibition, video, audio, dataset, monograph, thesis, patent, image, experiment, other)</span></th>
+			<td></td>
+		</tr>
+	</table>
+</kentSnippetKARList></div>
+
+<p style="text-align:right;">
+ Re-publish [<a href="https://www.cs.kent.ac.uk/cgi-bin/build-csweb-pages/rbipi.cgi">page</a>
+ | <a href="/dept_info/documentation/bipi.local">help</a>]
+</p>
+
+					</kentPageContent>
+				</kentPageBodyRight>
+			</kentPageBody>
+
+			<kentPageFooter>
+				<kentDepartmentFooter />
+				<kentGlobalFooter />
+			</kentPageFooter>
+		</kentPage>
+	</body>
+<!-- InstanceEnd --></html>

@@ -1,0 +1,59 @@
+<!-- Navigation links start -->
+
+<style>
+h3.nav {
+    background-color: powderblue;
+    padding: 10px;
+}
+h2.title {
+    background-color: whitesmoke;
+    padding: 5px;
+}
+h3.title {
+    background-color: whitesmoke;
+    padding: 2px;
+}
+</style>
+
+<br>
+<center><h3 class="nav"><a href="index.html">News</b></a> | <a href="research.html">Research</b></a> | <a href="selpub.html">Papers</b></a> | <a href="funding.html">Funding</b></a> | <a href="people.html">People</b></a> | <a href="media.html">Media & Public</a> |  <a href="collab.html">Collaborations</a> | <a href="misc.html">Misc</a></h3></center>
+<br>
+
+<!-- Navigation links end -->
+
+<center><h2>The MOHAWK Project</h2></center>
+
+<p>
+<center><img src="files/mohawk.jpg" height=200/></center>
+</p>
+
+<p>
+<table>
+    <tr>
+        <td><b>Principal Investigator</b></td>
+        <td>Dr. Srivas Chennu</td>
+    </tr>
+    <tr>
+        <td><b>Funder</b></td>
+        <td><a href="http://www.epsrc.ac.uk/" target="_blank">EPSRC</a></td>
+    </tr>
+    <tr>
+        <td><b>Duration</b></td>
+        <td>2017-2019</td>
+    </tr>    
+</table>
+</p>
+
+<h3>Brief description of the project</h3>
+
+<p>
+Despite significant advances in the neuroscience of consciousness, there are no brain-based tests of conscious state available clinically for diagnostic and prognostic applications in disorders of consciousness, which include the vegetative and minimally conscious states. Current guidance in clinical practice relies primarily on behavioural assessment to characterise the level of consciousness, which has been shown to incur a risk of misdiagnosis as high as 40%. The use of brain-based measures has yet to find implementation and acceptance in clinical practice, and in an individual patient's rehabilitation journey in particular.
+</p>
+
+<p>
+This proposal aims to directly contribute to addressing this serious limitation, by creating a software prototype that brings together state of the art computational analysis of brain activity data. This prototype will incorporate a computational data analytics pipeline designed to enable detailed visualisation and quantification of brain connectivity networks in DoC patients. These networks will be estimated by applying sophisticated signal processing methods to data collected from patients by clinical partners. We will develop and validate metrics derived from graph theory to characterise the topological and topographical properties of brain networks measured with these data. Further, the pipeline will apply machine learning to automatically classify the state of consciousness in individual patients based on the signatures in their brain networks. Most importantly, the software prototype will be designed in such a way that it can be easily deployed at the bedside in clinical rehabilitation centres where DoC patients are resident.
+</p>
+
+<p>
+If realised, this project will be one of the first to directly contribute to the scientific advancement and validation of healthcare technology with real-world impact in the assessment of consciousness in the clinic. It will be of particular interest to patients' families and carers, in addition to medical professionals involved in their care, treatment and management. It has the potential to enable them to have access to objective, discriminative, and cost-effective information about brain activity related to consciousness, available right at the bedside. This will ultimately facilitate informed decision-making on behalf of patients, and the employment of more effective therapeutic interventions. This advance will eventually also have broader implications for the ethical and legal debate in the public surrounding the assessment of consciousness in the clinic.
+</p>

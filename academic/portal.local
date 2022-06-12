@@ -1,0 +1,725 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd">
+<HTML LANG="en">
+
+<head>
+<title>Srivas Chennu:staff portal to CSWeb website</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="/styles/new_house.css" rel=STYLESHEET>
+<link REL=STYLESHEET HREF="/styles/house_lists.css" title="House List Styles">
+<style type="text/css">
+    /* All links on portal pages have a maroon hover */
+    A:hover {color: #CC0066;
+             background-color: transparent;
+            }
+</style>
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000">
+
+
+
+<!-- ******************** NAVIGATION BAR AT TOP OF PAGE ************************ -->
+<!-- ******************** NAVIGATION BAR AT TOP OF PAGE ************************ -->
+
+<!-- 
+  <table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-color:#000066;"> 
+<table width="100%" border="0" cellpadding="0" style="border-collapes:collapse; border-spacing:0px; padding:0px; border-color:#000066;">
+-->
+<table width="100%" border="0" cellpadding="0" cellspacing="0" style="border-spacing:0px; border-color:#000066;">
+  <tr> 
+    <td height="25" class="portal" valign="middle" width="25%" style="border-color:#000033"> 
+      <div align="left"><a href="/people/staff/sc785/"><b>Srivas Chennu </b></a></div>
+    </td>
+    <td class="portal" valign="middle" width="75%"> 
+      <div align="right"> 
+        &nbsp; 
+<!--
+        | CSWeb:
+         external (<a href="/welcome.html">web</a>,
+                   <a href="/dept_info/Site_map/index.html">map</a>),
+         local (<a href="/welcome.local">web</a>,
+                <a href="/dept_info/Site_map/index.local">map</a>)
+        | (<a href="http://www.kent.ac.uk/">University</a>)
+-->
+        | External
+          <a href="/welcome.html">csweb</a> and
+          <a href="/dept_info/Site_map/index.html"> site map</a>,
+        | Local 
+          <a href="/welcome.local">csweb</a> and
+          <a href="/dept_info/Site_map/index.local">site map</a>
+        | <a href="http://www.kent.ac.uk/">University</a>
+
+
+
+        | 
+      </div>
+    </td>
+  </tr>
+
+  <tr style="border-color:#CC0066; background-color:#CC0066;"> 
+    <!-- <td colspan="2" valign="middle" height="4" cellpadding="0" cellspacing="0">&nbsp; </td> -->
+    <td colspan="2" valign="middle" height="4" style="padding:0;">&nbsp; </td>
+  </tr>
+
+  <tr bgcolor="#FFFFFF"> 
+    <td valign="top" width="48%"> 
+      Specials:
+<!--
+      | &nbsp; 
+        <a href="/events/openday/2002_May/">Computer Science Open Day</a> &nbsp; 31 May &nbsp; 
+      | <a href="/systems/auction/">Auction</a>
+      | <a href="/teaching/04/qae/LOCAL-ONLY/ammr/CO/index.local">AMMR</a>
+      | <a href="http://csintra.kent.ac.uk/UCAS/index.html">UCAS</a> 
+      | <a href="/dept_info/documentation/publish/kent.local">Rebranding</a>
+      | Modules: <a href="http://www.cs.kent.ac.uk/teaching/07/modules/CO/">07/08</a>
+        <a href="https://intra.cs.kent.ac.uk/teaching/06/modules/CO/">06/07</a>,
+      | <a href="/dept_info/publicity/corporate/LOCAL-ONLY/logo/index.html">Logo</a>,
+-->
+      | <a href="/teaching/07/qae/LOCAL-ONLY/ammr/CO/index.local">AMMR 07/08</a>
+      |
+    </td>
+    <td class="padRem" valign="top" width="52%"> 
+      <div class="padRem" align="right">
+        <form class="padRem" name="search_csweb" method="post" action="/cgi-bin/htdig/htsearch.local">
+          Search CS 
+          <input type="text" name="words" value="">
+          <input type="submit" name="Submit" value="Go">
+          <input type="hidden" name="method" value="or">
+          <input type="hidden" name="format" value="builtin-short">
+          <input type="hidden" name="config" value="htdig">
+          <input type="hidden" name="restrict" value="">
+          <input type="hidden" name="exclude" value="">
+        </form>
+      </div>
+    </td>
+  </tr>
+</table>
+
+
+
+<!-- ********************** MAIN TABLE OF CONTENT ************************** -->
+<table width="100%"bgcolor="#CCCCFF" border="2" cellpadding="0" cellspacing="0" style="border-color:#000066">
+  <tr> 
+
+    <td width="20%" valign="top"> 
+      <!-- ***************** COLUMN 1: Laboratory, Faculty, University ************ -->
+     <!-- ***************** COLUMN 1: Laboratory, Faculty, University ************ -->
+
+      <!-- *********************** SCHOOL OF COMPUTING **************************** -->
+      <table width="100%" border="0" cellpadding="3" cellspacing="0" style="border-color:#9999FF;">
+        <tr> 
+          <td bgcolor="#9999FF"> <b>School</b></td>
+        </tr>
+        <tr> 
+          <td bgcolor="#CCCCFF"> 
+            <ul class="portalNoIndent100">
+
+              <li><a href="http://csintra.kent.ac.uk/">CS Intranet</a> 
+              <li><a href="http://csintra.kent.ac.uk/WhoDoesWhat/wdw/">Who does what</a> 
+              <li><a href="/calendar/">Room Booking</a> 
+              <li><a href="https://forum.cs.kent.ac.uk/">Computing Forums</a></li>
+              <li><a href="/cas/">CA Office</a></li>
+              <li><a href="/systems/">Systems Group</a> 
+              <!-- <li><a href="/dept_info/LOCAL-ONLY/Guidelines/Finance/Travel-request.pdf">Travel Request Form</a> 
+              -->
+              <li><a href="/booktravel/">Travel booking request</a> 
+              <li><a href="http://csintra.kent.ac.uk/teaching/audit/index.local">Institutional Audit</a> 
+              <li><a href="http://csintra.kent.ac.uk/UCAS/index.html">UCAS Day</a> 
+              <li><a href="http://www.kitclinic.org/">Kent IT Clinic</a>
+              <li><a href="/research/">Research</a>
+              <li><a href="/dept_info/seminars/">Seminars</a> 
+              <li><a href="/dept_info/library/">Library matters</a>: book ordering + lots more</li>
+              <li><a href="/dept_info/">Departmental Info</a>: 
+                   <a href="/dept_info/publicity">publicity</a>,
+                   <a href="/dept_info/publicity/corporate/LOCAL-ONLY/logo/index.html">logo</a>,
+                   <a href="/dept_info/publicity/displayscreens/index.local">display screens</a>
+                    + lots more....
+              <li><a href="/dept_info/LOCAL-ONLY/Guidelines/">Departmental Guidelines</a> :
+                 <a href="/dept_info/LOCAL-ONLY/Guidelines/Administration/A-Zinfo.pdf">general</a> (pdf),
+             
+                 <a href="/dept_info/LOCAL-ONLY/Guidelines/Administration/newstaff.local">arrival</a> and 
+                 <a href="/dept_info/LOCAL-ONLY/Guidelines/Administration/leaving.local">departure</a> procedures,
+                 travel, leave, safety, finance, emergencies..., 
+              <li><a href="/dept_info/equality/">Equality &amp; Diversity</a> 
+              <li>Appraisal:
+                   <a href="http://www.kent.ac.uk/hr-staffinformation/policies/appraisal.html">forms on Kent website</a> ,
+              <a href="http://csintra.kent.ac.uk/">CS intranet</a>
+              <li><a href="/systems/offsite_access.html">Off-site access</a>
+              <li><a href="/national">National Services</a>
+              <li><a href="/people/">Membership list</a>
+              <li><a href="https://intra.cs.kent.ac.uk/stats/csweb/">Web Site statistics</a>
+              <li><a href="/teaching/qae/">QAE</a>:
+                  <a href="/teaching/10/qae/LOCAL-ONLY/ammr/CO/index.local">ammr 10/11</a>
+             
+            </ul>
+
+            <h4 style="color:black; background-color:transparent; margin-bottom:0px;">Committees</h4>
+
+            <ul class="portalNoIndent100" style="margin-top:0px">
+            <!-- <li><a href="http://csintra.kent.ac.uk/teaching/exec">Teaching committees</a><br> -->
+            <!-- <li><a href="/teaching/this_year/qae/LOCAL-ONLY/committees/">Teaching committees</a><br> -->
+            </ul>
+
+          </td>
+        </tr>
+      </table>
+
+
+      <!-- *********************** FACULTY **************************** -->
+
+      <table width="100%" border="0" cellpadding="3" cellspacing="0" style="border-color:#9999FF;">
+        <tr> 
+          <td bgcolor="#9999FF"> <b>Faculty</b></td>
+        </tr>
+        <tr> 
+          <td bgcolor="#CCCCFF" valign="top" > 
+
+            <ul class="portalNoIndent100">
+            <li><a href="http://www.kent.ac.uk/stms/">Home page</a></li>
+
+            <li><a href="http://www.kent.ac.uk/stms/faculty-office/plans.html">Faculty Plans</a></li>
+ 
+            <li><a href="http://www.kent.ac.uk/stms/newsletters/">Newsletters</a></li>
+            <li><a href="http://www.kent.ac.uk/stms/faculty-office/committees/">Committees</a></li>
+            <li><a href="http://www.kent.ac.uk/stms/faculty-office/quality-assurance/index.html">QA</a></li>
+            </ul>
+          </td>
+        </tr>
+      </table>
+
+
+      <!-- *********************** UNIVERSITY **************************** -->
+
+      <table width="100%" border="0" cellpadding="3" cellspacing="0" style="border-color:#9999FF;">
+        <tr> 
+          <td bgcolor="#9999FF"> <b>University</b></td>
+        </tr>
+        <tr> 
+          <td bgcolor="#CCCCFF" valign="top" > 
+
+           <!-- <ul class="portalNoIndent100"> -->
+            <ul class="portalNoIndent100">
+
+            <li><a href="http://www.kent.ac.uk/">Home page</a></li>
+            <li><a href="http://www.kent.ac.uk/campusonline/directory">University Directory</a> 
+                - <a href="http://www.kent.ac.uk/campusonline/directory/update/">my info</a></li>
+            <li><a href="http://www.kent.ac.uk/campusonline/">Campus on-line</a>
+            <li><a href="http://www.kent.ac.uk/catering/">Catering</a> &amp;
+                <a href="http://www.kent.ac.uk/hospitality/">Hospitality</a>: opening times, menus, order online</li>
+            <li><a href="http://www.kent.ac.uk/departments/committees.html">Committees</a></li>
+            <li><a href="http://www.kent.ac.uk/cdo/">C&amp;DO</a>
+            <li><a href="http://www.kent.ac.uk/itservices/">IT Services</a> : help desk</li>
+
+
+
+            <li><a href="http://www.kent.ac.uk/finance/">Finance</a>
+             - eg.  <a href="http://www.kent.ac.uk/finance/payments/expectingpayments.html">Travel &amp; Subsistence claims</a>,
+
+                <a href="http://www.kent.ac.uk/finance-staff/services/expenses.html">expenses.</a>
+            </li>
+
+            
+            <li><a href="http://www.kent.ac.uk/foi/">Freedom of Information</a></li>
+            <li><a href="http://library.kent.ac.uk/library/">Library</a></li>
+            <li>Publicity: <a href="http://www.kent.ac.uk/campusonline/directory/results.html?action=department&amp;deptid=68&amp;mode=full">C&amp;DO</a>, 
+                <a href="http://www.kent.ac.uk/cdo/publication/">publications team</a>, 
+                <a href="http://www.kent.ac.uk/cdo/publication/corporate/logo/downloads.html">Logo</a>, 
+            </li>
+            <li><a href="http://www.kent.ac.uk/safety/">Safety guidelines</a></li>
+            <li><a href="http://www.kent.ac.uk/ettoffice/">Timetables</a> </li>
+            <li><a href="http://www.kent.ac.uk/uelt/">UELT</a></li>
+            <li><a href="http://www.kent.ac.uk/whatson/">Whats On</a></li>
+
+            <li>Prospectus: CS Entry:
+               <a href="http://www.kent.ac.uk/studying/undergrad/">UG</a>,
+               <a href="http://www.kent.ac.uk/studying/postgrad/">PG</a> </li>
+	    <li><a href="https://www.kent.ac.uk/finance-staff/services/insurance/docs/evidence_of_cover/liabilities_employers_certificate_zmi_2012_2013.pdf">Certificate of Employers' Liability Insurance</a></li>
+          </ul>
+          <!-- end of List class="portalNoIndent100 -->
+          </td>
+        </tr>
+      </table>
+
+   <!-- ******************* END OF COLUMN 1 ********************************* -->
+    </td>
+
+   <!-- ******************* COLUMN 2 ********************************* -->
+
+    <!-- ******************* MY TEACHING ********************************* -->
+    <td width="60%" valign="top" bgcolor="#FFFFCC"> 
+
+      <table width="100%" border="0" cellpadding="3" cellspacing="0" style="border-color:#CC0066;">
+        <tr> 
+          <td class="navColor"> 
+            <!-- <b><font color="#9999FF">My Teaching</font></b> -->
+            <span style="color:#FFFFFF;background-color:#CCCCFF; font-weight:bold; padding:0.2em 0.3em;">My Teaching</span>
+          </td>
+        </tr>
+
+<!-- *************** MY CLASSES ******************* -->
+        <tr> 
+          <td  valign="top">
+
+<!-- *************** MY GROUPS ******************* -->
+        <tr>
+          <td  valign="top">
+
+
+
+
+<!-- *************** MY COURSES ******************* -->
+
+<p><b><a href="https://maat.kent.ac.uk/exams-cgi/setting/personal.py">My Exam Questions</a></b> </p>
+
+<!-- *************** MY TUTEES ******************* -->
+
+            <p><b>My Tutees</b>: </p>
+
+            <p><a href="https://sds.kent.ac.uk/staff/staff_page.php?action=wf2r1&nav=PER&role=AC">List of tutees on SDS</a>, and
+              <a href="http://intra.cs.kent.ac.uk/">guidelines </a>for being 
+                a tutor<br>
+            </p>
+
+            <hr>
+
+<!-- *************** GENERAL TEACHING INFORMATION ******************* -->
+
+	    <h3>Module web pages</h3>
+	    <p>All School of Computing module web pages are now in the <a href="http://moodle.kent.ac.uk/">University's moodle system</a>.</p>
+            <h3>General Teaching Information</h3>
+
+            <p><b>Student Data System</b>:
+               <!-- <a href="https://sds.kent.ac.uk/account/">SDS login page</a>, -->
+               <a href="https://sds-staff.kent.ac.uk/staff/staff_page.php?action=first&type=menu&role=DA&clear_trail=Y">SDS main menu page</a>
+            </p>
+
+            <p><b>Teaching</b>:
+               <a href="/teaching/">programmes</a>, 
+               <a href="/teaching/this_year/modules/CO/">module list 2010-11</a> &nbsp; 
+               (last year <a href="http://intra.cs.kent.ac.uk/teaching/09/modules/CO/index.local">2009-10</a>), 
+               <a href="https://intra.cs.kent.ac.uk/plagiarism/">PLAGIARISM</a>
+              <!--
+               <a href="https://intra.cs.kent.ac.uk/teaching/05/assessment/index.local">assessment summary 2005-06</a>
+              -->
+
+            </p>
+
+            <p><b>Teaching resources</b>:
+               <a href="/teaching/resources/">general resources</a> including
+               <a href="/teaching/resources/java/">java,</a>
+               &nbsp;<a href="/teaching/resources/haskell/index.html">haskell</a>.
+               <a href="http://www.kent.ac.uk/uelt/ced/themes/assessment/resources2.html">UELT Guidance on Assessment</a>,
+               <a href="/dept_info/documentation/publish/assessment/index.local">
+               Assessment Tools</a>.
+              </p>
+
+
+            <p><b>Student information</b>: 
+               <a href="http://intra.cs.kent.ac.uk/teaching/student/2010/index.local">tutee groups</a>
+               for 2010-11, 
+               student <a href="/people/index.local">homepages</a>,
+               being a <a href="/LOCAL-ONLY/index.local">student in the dept.</a>,
+               placement students <a href="/teaching/prospectus/sandwich/">handbook</a>.
+            </p>
+
+            <p><b>Timetables and Exams</b>: 
+               <a href="/dept_info/LOCAL-ONLY/Calendar/Dates_of_Terms_Closure_to_2015-2016.html">Term dates up to 2015</a> - 
+               local copy), 
+               <a href="http://www.kent.ac.uk/timetabling/">university exams and timetabling Office</a>
+             (including
+               <a href="http://www.kent.ac.uk/timetabling/timetable/index.html">current module timetable</a>,
+
+<a href="https://reports.kent.ac.uk/ReportServer/Pages/ReportViewer.aspx?%2fExams+and+Timetabling%2fTimetableReview%2fNavigator&rs%3aCommand=Render"> draft module timetable 2010-2011</a>,
+
+               <a href="http://www.kent.ac.uk/timetabling/timetable/index.html">current module timetable</a>,
+               <a href="http://www.kent.ac.uk/timetabling/termweekdates.html">current term and
+ week numbers</a>,
+               <a href="http://www.kent.ac.uk/timetabling/roombooking.html">University room booking</a>
+                  and room information
+             ).
+             <a href="http://www.kent.ac.uk/registry/student-records/exams/timetable/index.html">Exam timetable summer 2010 </a>
+            </p>
+
+            <p><b>Project weeks</b>:
+            <a href="/teaching/this_year/projweeks/">details</a> for this year.
+            </p>
+
+
+            <p><b>Recruitment Publicity</b>:</p>
+             <ul class="portalWithIndent100">
+               <li><a href="http://intra.cs.kent.ac.uk/recruit/">Recruitment WIK
+I</a> for School admissions staff
+               </li>
+               <li><a href="https://www.kent.ac.uk/registry-local/spdo/">Student Planning Data Office (SPDO)</a>: 
+                 <a href="https://www.kent.ac.uk/registry-local/spdo/admission/ftug.html">Admissions stats</a>, 
+                 <a href="https://www.kent.ac.uk/registry-local/spdo/snpl/index.html">Student Numbers Projections & Load Project</a>,
+                 <a href="http://records.kent.ac.uk/account/">SDS admissions login page</a>
+              </li>
+               <li>School Publicity: <a href="/students/">UG recruitment website</a>,
+                   <a href="/dept_info/publicity/index.local#recruit">Recruitment guidelines</a><br>
+               </li>
+
+               <li>Faculty Information:
+                 <a href="http://www.kent.ac.uk/stms/studying/programmes/index.html">Programme Specifications</a>,
+                 <a href="http://www.kent.ac.uk/stms/studying/modules/index.html">Module Specifications</a>,
+                 <a href="http://www.kent.ac.uk/studying/modulecatalogue/index.html">Module Catalogue</a>,
+   
+               </li>
+               <li>KBS info:
+                  <a href="http://www.kent.ac.uk/socsci/studying/undergrad/handbooks-st2&3/2010-2011.html">Programme Rubrics and Module Outlines</a>
+               </li>
+
+               <li>University Publicity:
+                 <ul>
+                   <li><span style="font-weight:bold;">Undergraduate prospectus entries:</span> 
+                     <a href="http://www.kent.ac.uk/courses/undergrad/2012/subjects/computer-science/">computer science</a>,
+                     <a href="http://www.kent.ac.uk/courses/undergrad/2012/subjects/computing---joint-honours/">computing joint honours</a>, 
+                     <a href="http://www.kent.ac.uk/courses/undergrad/2012/subjects/web-computing/">web computing</a>,
+                     <a href="http://www.kent.ac.uk/courses/undergrad/2012/subjects/information-technology/">information technology</a> at Medway.
+                      (<a href="http://www.kent.ac.uk/courses/undergrad/">web-based UG prospectus</a>)
+                      (<a href="http://www.kent.ac.uk/courses/undergrad/prospectus/index.html">prospectus PDFs</a>)
+<!--
+                      (<a href="http://www.kent.ac.uk/studying/undergrad/subjects/pdfs/index.html">subject booklet PDFs and quick reference guide</a>)
+-->
+
+                   </li>
+
+                   <li><span style="font-weight:bold;"><a href="http://www.kent.ac.uk/courses/postgrad/">Postgraduate prospectus</a> :</span>
+                     <a href="http://www.kent.ac.uk/courses/postgrad/subjects/computing/">computing</a> 
+                     including taught programmes, research programmes and staff interests,
+                     <a href="http://www.kent.ac.uk/studying/postgrad/apply/index.html">apply</a>.
+                   </li>
+
+                   <li><span style="font-weight:bold;">Part-time Prospectus:</span>
+                     <a href="http://www.kent.ac.uk/courses/part-time/">prospectus</a> and 
+<!--
+                     <a href="http://www.kent.ac.uk/courses/part-time/download.html">Prospectus pdf</a>, IT, BIT. 
+-->
+                  </li>
+
+                  <li><span style="font-weight:bold;">Publicity Materials:</span>
+                      <a href="http://www.kent.ac.uk/applicants/information/downloads.html">Downloads and useful links</a>
+                  </li>
+
+                 </ul>
+
+               </li>
+
+
+
+              <li><a href="http://www.kent.ac.uk/international/">International Office</a> and 
+                  <a href="https://sharepoint.kent.ac.uk/groups/internationalisation/">sharepoint site</a>,
+              </li>
+
+              <li><a href="http://www.kent.ac.uk/european-office/">European Office for staff</a> and 
+                  <a href="https://sharepoint.kent.ac.uk/groups/internationalisation/">sharepoint site</a>,
+                  <a href="http://www.kent.ac.uk/european/">European (for potential students)</a>
+              </li>
+
+              <li><a href="http://www.kent.ac.uk/cm/">Marketing </a> and 
+                  <a href="https://sharepoint.kent.ac.uk/cdo/marketing/forum/default.aspx">sharepoint site</a>
+              </li>
+
+               <li>Funding:
+                 <a href="http://www.kent.ac.uk/studying/funding/">student fees and funding</a>
+               </li>
+
+               <li>University rankings: 
+               <a href="http://www.guardian.co.uk/education/universityguide/">Education Guardian University Guide</a>, 
+               <a href="http://http://en.wikipedia.org/wiki/League_tables_of_British_universities">Wikipedia: League tables of British universities</a>
+               </li>
+
+
+               <li>C&amp;DO: <a href="http://www.kent.ac.uk/campusonline/directory/results.html?action=department&amp;deptid=68&amp;mode=full">contact details</a>, 
+
+
+            </ul>
+
+
+            <p><b>Miscellaneous</b>:</p>
+
+             <ul class="portalWithIndent100">
+                 <li><a href="http://www.kent.ac.uk/parents/">
+                     Information for parents</a>
+                 </li>
+                 <li><a href="http://www.ics.heacademy.ac.uk/">
+                     Higher Education Academy - Centre for Information and Computer Sciences</a>
+                     </li>
+               </ul>
+
+          </td>
+        </tr>
+      </table>
+    </td>
+
+   <!-- ******************* COLUMN 3 ********************************* -->
+    <td width="20%" valign="top"> 
+   <!-- ******************* COLUMN 3 ********************************* -->
+
+    <!-- ******************* MY RESEARCH ********************************* -->
+
+      <table width="100%" border="0" cellpadding="3" cellspacing="0" style="border-color:#CC0066;">
+        <tr> 
+          <td class="navColor" >
+            <b><font color="#FFFFFF">My Research</font></b>
+          </td>
+        </tr>
+        <tr> 
+          <td bgcolor="#FFFFCC"> 
+
+            <ul class="portalNoIndent100">
+
+              <li><a href="pubs.local">My Publications</a>
+
+
+              </li>
+
+
+                <li>My Groups: 
+                  <a href="/research/groups/datascience/index.local">datascience</a>&nbsp;
+                  </li>
+
+<!--
+              <li>My Research students<br>
+              </li>
+-->
+
+            </ul>
+
+            <h4 style="color:black; background-color:transparent; margin-bottom:0px;">School</h4>
+
+            <ul class="portalNoIndent100" style="margin-top:0px">
+
+              <li>
+                 <a href="/research/">Research</a>
+                   : <a href="http://csintra.kent.ac.uk/research/funding">funding</a>
+                   </li>
+              <li><a href="/pubs/">Publications</a> :
+                  <a href="/cgi-bin/repository/submit.local">submit</a>, 
+                  <a href="/cgi-bin/repository/extract.local">find</a>,
+                  <a href="https://intra.cs.kent.ac.uk/research/venues/">venues</a>
+                  </li>
+              <li><a href="/dept_info/seminars">Seminars</a></li>
+              <li>Funding: staff research &amp; teaching fund <a href="mailto:cs-fundrequest@kent.ac.uk">cs-fundrequest@kent.ac.uk</a></li>
+  
+  
+            </ul>
+
+
+
+            <h4 style="color:black; background-color:transparent; margin-bottom:0px;">UoK and General</h4>
+            <ul class="portalNoIndent100" style="margin-top:0px">
+              <li><a href="http://www.kent.ac.uk/stms/faculty-office/adminprocedures/research-ethics/">Research Ethics</a>:
+              <a href="http://www.kent.ac.uk/stms/faculty-office/adminprocedures/research-ethics/handbook.html">Handbook</a></li>
+              <li><a href="http://www.epsrc.ac.uk/">EPSRC</a></li>
+              <li><a href="http://wos.mimas.ac.uk/">World of Science</a>
+              </li>
+
+            </ul>
+
+          </td>
+        </tr>
+      </table>
+
+      <!-- ********************** MY ADMIN ***************************** -->
+
+
+      <!-- ********************** MY OWN LINKS ***************************** -->
+
+      <table width="100%" border="0" cellpadding="3" cellspacing="0" style="border-color:#CC0066;">
+        <tr> 
+          <td class="navColor"> <b><font color="#FFFFFF">My own links</font></b></td>
+        </tr>
+        <tr> 
+          <td bgcolor="#FFFFCC" valign="top">
+            <ul class="portalNoIndent100">
+
+<b>How to <a href="/dept_info/documentation/bsp/index.local#mylinks">create my own links</a>
+     here.</b>
+
+<li><a href="http://www.google.com/search?q=&amp;btnG=Google+Search">Google search</a></li>
+<li><a href="http://www.jisc.ac.uk/services/">JISC services</a></li>
+<li><a href="http://www.webmaster.bham.ac.uk/ukuwww.html">UK universities</a></li>
+<li><a href="http://www.railtrack.co.uk/">Railtrack</a></li>
+            </ul>
+            &nbsp;
+            </td>
+        </tr>
+      </table>
+
+      <!-- **************************** EMAIL AND NEWS *************************** -->
+
+      <table width="100%" border="0" cellpadding="3" cellspacing="0" style="border-color:#9999FF;">
+        <tr> 
+          <td bgcolor="#9999FF"> <b>Email &amp; News</b> </td>
+        </tr>
+        <tr> 
+          <td bgcolor="#CCCCFF" valign="top"> 
+
+            <!-- <ul class="portalNoIndent100"> -->
+
+<script type="text/javascript">
+
+
+      if( (navigator.appName.indexOf("Microsoft") ==-1)  ||
+          (parseInt(navigator.appVersion) < 4)
+         ) {
+        /* Not a Microsoft browser  OR Microsoft v3 or below */
+        /* Netscape does not provide a scrollong menu except on a default window */
+        document.write("<ul class=\"portalNoIndent100\">");
+        document.write("<li><a href=\"javascript:void( window.open('/contacts/news.local','newsList'))\">Newsgroup list<\/a><\/li>");
+        document.write("<li><a href=\"javascript:void( window.open('/contacts/email.local','emailList'))\">Email list<\/a><\/li>");
+        document.write("<\/ul>");
+      }
+      else {
+        /* is a Microsoft browser version 4 or above */
+        /* Provide a separate window with scroll bar and specific sized window */
+        document.write("<ul class=\"portalNoIndent100\">");
+        document.write("<li><a href=\"javascript:void( window.open('/contacts/news.local','newsList', 'width=350, height=650, scrollbars=yes, resizable=yes'))\">Newsgroup list<\/a><\/li>");
+        document.write("<li><a href=\"javascript:void( window.open('/contacts/email.local','emailList', 'width=350, height=650, scrollbars=yes, resizable=yes'))\">Email address list<\/a><\/li>");
+        document.write("<\/ul>");
+      }
+</script>
+
+            <ul class="portalNoIndent100" style="margin-top:0; padding-top:0">
+              <li><a href="https://www.kent.ac.uk/lists/">University email lists</a>
+              <!-- <li><a href="https://www.kent.ac.uk/lists/">Create, manage and subscribe to university email lists</a> -->
+              <li><a href="https://forum.cs.kent.ac.uk/index.php?t=i&cat=4">CS dept. Forums</a>
+              <li><a href="https://forum.cs.kent.ac.uk/index.php?t=i&cat=8">CS Module Forums</a>
+            </ul>
+
+            </td>
+        </tr>
+      </table>
+
+      <!-- *************************** CSWEB DOCUMENTATION **************************** -->
+      <table width="100%" border="0" cellpadding="3" cellspacing="0" style="border-color:#9999FF;">
+        <tr> 
+          <td bgcolor="#9999FF"><b>CS Website</b></td>
+        </tr>
+        <tr> 
+          <td bgcolor="#CCCCFF"> 
+
+            <ul class="portalNoIndent100">
+
+            <li><a href="mailto:cs-webmaster@kent.ac.uk">cs-webmaster</a></li>
+            <li><a href="/index.local">School homepage</a></li>
+            <li><a href="http://intra.cs.kent.ac.uk/">School Intranet</a>
+          </ul>
+
+          <p><b>Publishing webpages</b></p>
+
+          <!-- <ul class="narrow"> -->
+          <ul class="portalNoIndent100">
+            <li><a href="/dept_info/documentation/publish/induction.local">Getting Started</a></li>
+              <li><a href="/dept_info/documentation/publish/">Guidelines</a>:
+              and <a href="/dept_info/documentation/publish/staff/guide.local">faq for staff</a>
+
+            </li>
+            <li><a href="/dept_info/documentation/">Build Scripts</a></li>
+            <li><a href="/dept_info/documentation/publish/tools.html">Validation Tools</a></li>
+            <li><a href="http://csintra.kent.ac.uk/dept_info/documentation/anon/">Anonymous Q</a></li>
+            <li><a href="http://csintra.kent.ac.uk/dept_info/documentation/questionnaire/">Questionnaire</a></li>
+            <li><a href="http://csintra.kent.ac.uk/dept_info/documentation/mailform/">Mail Form</a></li>
+            <li>Assessment: <a href="/dept_info/documentation/publish/assessment/">quizzes</a></li>
+
+          </ul>
+
+          </td>
+        </tr>
+      </table>
+    </td>
+
+  </tr>
+</table>
+
+
+<P ALIGN="RIGHT">
+<A HREF="./portal.html">External view of this page</A>
+<br>Re-publish
+   [<a href="https://www.cs.kent.ac.uk/cgi-bin/build-csweb-pages/rbsp.cgi">page</a> |
+   <a  href="/dept_info/documentation/bsp/index.local">help</a>]
+
+<!-- ********************* NAVIGATION BAR AT BOTTOM OF PAGE ************************* -->
+
+
+<BR>
+<div align=center>
+  <TABLE width="100%" summary="Computer Science Navigation Bar">
+    <tr>
+      <td align="center" ><a class="cs" href="/welcome.local">Computer Science &#064; Kent</a></td>
+    </tr>
+    <tr> 
+      <td class="navcsColor"> 
+        <div align=center>
+        <map name="Navigation Bar">
+          <p>
+          | <a class=navcs href="/welcome.local">&nbsp;
+            Home</a>&nbsp;&nbsp;
+          | <a class=navcs href="/teaching/index.local">&nbsp;
+            Teaching</a>&nbsp;&nbsp;
+          | <a class=navcs href="/people/index.local">&nbsp;
+            People</a>&nbsp;&nbsp;
+          | <a class=navcs href="/search/index.local">&nbsp;
+            Search</a>&nbsp;&nbsp;
+          | <a class=navcs href="/research/index.local">&nbsp;
+            Research</a>&nbsp;&nbsp;
+          | <a class=navcs href="/pubs/index.local">&nbsp;
+            Publications</a>&nbsp;&nbsp;
+          | <a class=navcs href="/research/pg/index.local">&nbsp;
+            Postgrad</a>&nbsp;&nbsp;
+          | <a class=navcs href="/contacts/index.local">&nbsp;
+            Contacts</a>&nbsp;&nbsp;
+          | <a class=navcs href="/contacts/help.html">&nbsp;
+            Help</a>&nbsp;&nbsp;
+          |
+          </p>
+        </map>
+        </div>
+  
+      </td>
+    </tr>
+  </TABLE>
+
+  
+  <TABLE width="100%">
+    <TR>
+      <TD align="left" >
+        <A HREF="http://www.kent.ac.uk/">
+           <!-- <IMG BORDER="0" SRC="http://www.kent.ac.uk/newimages/color/topleft.gif"> -->
+           <IMG BORDER="0" SRC="/images/ukc_logosmall.jpg" ALT="Go to the University of Kent's homepage">
+        </A>
+      </TD>
+  
+      <TD align="right">
+          <SMALL>
+          <KBD>
+          Last modified Wed Apr  3 03:16:43 BST 2019
+
+          <!--
+          Made by sc785 from template /web/cs/templates/people/portal/staff_portal.template.
+          The template was last modified 2006-05-10 12:20.
+          -->
+          <BR>
+          Problems with this page?
+          Contact the <A HREF="mailto:cs-webmaster@kent.ac.uk">CS Webmaster</A>
+          </KBD>
+          </SMALL>
+      </TD>
+    </TR>
+    <TR>
+      <TD COLSPAN="2" align="right">
+  	<SMALL>
+  	<KBD>
+  	  http://www.cs.kent.ac.uk/people/staff/sc785/portal.local
+  	</KBD>
+  	</SMALL>
+      </TD>
+    </TR>
+  
+  </TABLE>
+</div>  
+
+
+</BODY>
+</HTML>

@@ -1,0 +1,160 @@
+<!-- Navigation links start -->
+
+<style>
+h3.nav {
+    background-color: powderblue;
+    padding: 10px;
+}
+h2.title {
+    background-color: whitesmoke;
+    padding: 5px;
+}
+h3.title {
+    background-color: whitesmoke;
+    padding: 2px;
+}
+</style>
+
+<br>
+<center><h3 class="nav"><a href="index.html">News</b></a> | <a href="research.html">Research</b></a> | <a href="selpub.html">Papers</b></a> | <a href="funding.html">Funding</b></a> | <a href="people.html">People</b></a> | <a href="media.html">Media & Public</a> |  <a href="collab.html">Collaborations</a> | <a href="misc.html">Misc</a></h3></center>
+<br>
+
+<!-- Navigation links end -->
+
+<p>
+I am a lecturer in eHealth at the University of Kent and a senior research associate at the University of Cambridge. My research focuses on how the brain mechanisms underlying consciousness are altered in sleep, sedation, meditation, and the vegetative and minimally conscious states. This work has been published in <i>The Lancet</i>, <i>Neurology</i>, <i>PLOS</i> and <i>Brain</i>.
+</p>
+<p>
+I am applying this science to improve diagnostic and prognostic decision making for patients in these states. I have shown that electroencephalography can be used to characterise brain networks, measure cognition and even detect hidden awareness in patients at their bedside. This research program has received considerable public and media interest, including from <i>BBC Radio 4</i>, <i>World Service</i>, <i>Discovery Channel</i>, <i>Wired Magazine</i>, <i>New Scientist</i>, <i>The Washington Post</i> and <i>Der Spiegel</i>.
+</p><center><h2 class="title">News</h2></center>
+
+<br>
+
+<p><center>
+    
+    <p><strong>October 2018:</strong> Art, science and meditation in collaboration with the <a href="http://www.coma.ulg.ac.be/">Coma Science Group</a> led by Prof. Steven Laureys: The art we made from the meditative consciousness of the reknowned Tibetan buddhist, writer, philosopher and "world's happiest man" <a href="https://en.wikipedia.org/wiki/Matthieu_Ricard">Matthieu Ricard</a> will be on display at Liege's iconic Guillemins train station all through October and November 2018. Head there to see some <a href="https://braincouncil.be/en/brainart/brainart2018/24-srivas-chennu-university-of-kent-rajanikant.jpg/view">Brain'Art!</a>.</p>
+    <p><a href="files/MR_BrainArt.gif"><img src="files/MR_BrainArt.gif" alt="" height="300	"/></a></p>
+
+<br>
+<hr>
+<br>
+    
+<br>
+
+<p><center>
+    
+    <p><strong>October 2018:</strong> Congratulations to my PhD student Konstantinos Patlatzoglou on his paper applying <a href="https://kar.kent.ac.uk/69530/">deep neural networks to classify anaesthetic-induced states of consciousness</a>, straight from raw EEG. To be presented at <a href="https://uta.engineering/conferences/bi-2018/">Brain Informatics 2018</a>.</p>
+    <p><img src="files/Patlatzoglou_BI_2018.jpg" alt="" height="300	"/></p>
+
+<br>
+<hr>
+<br>
+    <p><strong>August 2018:</strong> Our first paper from the <a href="https://www.cs.kent.ac.uk/people/staff/sc785/betadoc.html">BETADOC</a> and <a href="https://www.cs.kent.ac.uk/people/staff/sc785/mohawk.html">MOHAWK</a> projects is now out in <a href="https://www.frontiersin.org/articles/10.3389/fneur.2018.00676/full">Frontiers</a>!</p>
+    <p><img src="files/Bareham_Frontiers_2018.jpg" alt="" height="300	"/></p>
+
+<br>
+<hr>
+<br>
+    <p><strong>July 2018:</strong> I gave a talk on brain network analytics at the <a href="https://www.egi.com/education/workshops-symposia/high-density-eeg-research-workshop">Philips Neuro symposium</a> before <a href="https://cuttingeeg.org/">Cutting EEG 2018</a>.</p>
+    <p><img src="files/CuttingEEG_2018.jpg" height=400/></p>
+    
+<br>
+<hr>
+<br>
+
+
+    <p><strong>May 2018:</strong> I will be joining the <a href="https://www.turing.ac.uk/">The Alan Turing Institute</a> for Data Science as a visiting researcher.</p>
+<p><a href="https://www.turing.ac.uk/" target="_blank"><img src="files/the_alan_turing_institute_logo.png" height=150/></a></p>
+    
+    <hr>
+    <br />
+<p><center>
+    
+    <p><strong>Feb 2018:</strong> Dr. Marco Javarone joins us as a postdoctoral researcher on the EPSRC-funded <a href="https://www.cs.kent.ac.uk/people/staff/sc785/mohawk.html">MOHAWK</a> project.</p>
+    <p><img src="files/marcojavarone.png" height=150/></p>
+    </center>    
+    
+<br>
+<hr>
+<br>
+    
+    <p><strong>Dec 2017</strong>: My piece for <a href="https://theconversation.com/deepmind-can-we-ever-trust-a-machine-to-diagnose-cancer-88707" target="_blank">The Conversation</a> on the immense potential and significant challenges in applying modern Artificial Intelligence to improve human health.
+      
+    </p>
+
+<center>
+        <a href="https://theconversation.com/deepmind-can-we-ever-trust-a-machine-to-diagnose-cancer-88707" target="_blank"><img src="files/theconversation-deepmind.png" height=350/></a>
+</center>
+<br>
+
+<hr>
+
+<br>
+<p><center>
+    
+    <strong>Dec 2017</strong>: The Search For Your Spark: Art Meets the Science of Consciousness. Beautiful and striking work by Sarah Harley in response to my research into patients with disorders of consciousness.
+    <center><a href="files/SarahHarley.jpg" target="_blank"><img src="files/SarahHarley.jpg" height=400/></a></center>
+<br>
+
+<hr>
+
+<p><center>
+    
+    <strong>Oct 2017</strong>: Applications welcome for a new EPSRC-funded <a href="https://www11.i-grasp.com/fe/tpl_kent01.asp?s=4A515F4E5A565B1A&jobid=41306,5425238748&key=50937013&c=223465364822&pagestamp=sewzjjuhsdmqkvijvz" target="_blank"><b>postdoc in computational neuroscience</b></a> in our group!</center></p>
+<br>
+
+<hr>
+
+<p><center>
+    
+    <strong>Aug 2017</strong>: We are on the cover of the August issue of <i>Brain</i>. Read the paper here: "<a href="https://academic.oup.com/brain/article/doi/10.1093/brain/awx163/3896394/Brain-networks-predict-metabolism-diagnosis-and?guestAccessKey=37194adc-cf03-49fd-a505-5df2afce0b79" target="_blank">Brain networks predict metabolism, diagnosis and prognosis at the bedside in disorders of consciousness</a>".</center></p>
+    
+    <p><center><img width="300" src="files/Brain-Aug2017.jpg"/></center></p>
+<br>
+
+<hr>
+
+<br>
+<p><center><strong>May 2017</strong>: A research grant awarded by the EPSRC will fund our <a href="https://www.cs.kent.ac.uk/people/staff/sc785/mohawk.html" target="_blank">MOHAWK</a> project. I will be advertising for a researcher on this project, more details soon!</center></p>
+<br>
+<hr>
+
+<br>
+<p><center>
+    <strong>Jan 2017</strong>: I provided expert commentary to <a href="http://www.itv.com/news/2017-01-31/scientific-breakthrough-as-researchers-read-thoughts-of-completely-locked-in-patients/" target="_blank">ITV News at Ten</a> about a high-profile study on a <a href="http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002593" target="_blank">new brain-computer interfacing technology</a> that enabled communication with completely locked-in patients.
+</center></p>
+<table>
+<tbody>
+<tr>
+<center><a href="http://www.itv.com/news/2017-01-31/scientific-breakthrough-as-researchers-read-thoughts-of-completely-locked-in-patients/" target="_blank"><img width="450" src="http://news.images.itv.com/image/file/1212408/stream_img.jpg"/></a></center>
+</tr>
+</tbody>
+</table>
+
+<br>
+<hr>
+<br>
+<p><center><strong>Dec 2016</strong>: <a href="http://www.bbc.co.uk/programmes/b08588cp" target = "_blank">BBC Radio 4</a> commisioned a documentary highlighting our research into developing bedside assessment for patients in vegetative and minimally conscious states. Listen to it here!</center></p>
+<table>
+<tbody>
+<tr>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/BBUHC-sCb-M" frameborder="0" allowfullscreen></iframe></center>
+</tr>
+</tbody>
+</table>
+
+<br>
+<hr>
+<br>
+
+<p><center><strong>Nov 2016</strong>: Think Kent recorded my talk on the mohawk of consciousness. Here's the video:</center></h4></p>
+<table>
+<tbody>
+<tr>
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/wTMsv5JWcEo" frameborder="0" allowfullscreen></iframe></center>
+</tr>
+</tbody>
+</table><br><hr><br>
+<p align="right">
+    <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=080808&w=150&t=tt&d=G7kK8WRy7bIzWe-Ovhj0RoKqrTOH0lV9ymj57SQkmcY&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080"></script>
+</p>
